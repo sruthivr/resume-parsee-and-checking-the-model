@@ -1,1 +1,1 @@
-# resume-parsee-and-checking-the-model
+# resume-parser-and-checking-the-model
